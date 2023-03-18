@@ -11,16 +11,16 @@
 ![image](https://user-images.githubusercontent.com/113322089/226097498-46c2c50b-7dde-480b-8cb1-30161b4a97af.png)
 
 <b>MENU GAME <br>
-![image](https://user-images.githubusercontent.com/113322089/226097271-24f2bed9-bad8-404b-ba44-69e1c93ff661.png)
+![image](https://user-images.githubusercontent.com/113322089/226098115-12869a26-6193-4ad3-9ded-c73a1cbc45fd.png)
 
 <b>CHOOSE MODE GAME <br>
-![image](https://user-images.githubusercontent.com/113322089/226097149-1dac919a-a732-4a19-a5cf-efa9e28abb04.png)
+![image](https://user-images.githubusercontent.com/113322089/226098137-f1c10ff7-b798-4285-88bd-cce34856407c.png)
 
 <b>EASY MODE <br>
-![image](https://user-images.githubusercontent.com/113322089/226097677-f52c7b55-4fca-401d-8041-248ac977d18b.png)
+![image](https://user-images.githubusercontent.com/113322089/226098080-b4af0ae8-78db-4a1a-8b05-8bed75001121.png)
 
 <b>HARD MODE <br>
-![image](https://user-images.githubusercontent.com/113322089/226097708-1223e691-7ba8-4f28-a5ef-eb24736f9bc3.png)
+![image](https://user-images.githubusercontent.com/113322089/226098048-9d7b7cb4-1693-4a9d-9ac0-02cd4fc6310c.png)
 
 <b>PAUSE MENU <br>
 ![image](https://user-images.githubusercontent.com/113322089/226097737-17cb9339-b6e7-4f54-99e0-31121de2c0ed.png)
