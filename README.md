@@ -1,4 +1,4 @@
-# Game-Plane-Shooter
+# Game-Plane-Shooter.
 
 <b>YOUR PLANE <br>
 ![image](https://user-images.githubusercontent.com/113322089/226097401-ea503c2b-948c-4fe6-b400-05ecb9c3e50e.png)
